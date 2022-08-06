@@ -1,0 +1,6 @@
+1.0 => 
+{
+    -Repositorio creado.
+    -Se crean los archivos esenciales.
+    -Se crea el prototipo de la primer vista.
+}
